@@ -2,7 +2,6 @@
 
 A lightweight web application that provides simple explanations for complex concepts using locally-running Large Language Models (LLMs).
 
-![Concept Explainer Screenshot](https://via.placeholder.com/800x450?text=Concept+Explainer+Screenshot)
 
 ## Overview
 
